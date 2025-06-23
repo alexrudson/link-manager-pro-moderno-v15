@@ -1,0 +1,1632 @@
+{
+    "categories": [
+        {
+            "name": "Android",
+            "slug": "android",
+            "description": ""
+        },
+        {
+            "name": "comprar",
+            "slug": "comprar",
+            "description": ""
+        },
+        {
+            "name": "Comprei-ganhei",
+            "slug": "comprei-ganhei",
+            "description": ""
+        },
+        {
+            "name": "contas digitais",
+            "slug": "contas-digitais",
+            "description": ""
+        },
+        {
+            "name": "crack",
+            "slug": "crack",
+            "description": ""
+        },
+        {
+            "name": "cracked",
+            "slug": "cracked",
+            "description": ""
+        },
+        {
+            "name": "cria app",
+            "slug": "cria-app",
+            "description": ""
+        },
+        {
+            "name": "Criar Quiz",
+            "slug": "criar-quiz",
+            "description": ""
+        },
+        {
+            "name": "cursos",
+            "slug": "cursos",
+            "description": ""
+        },
+        {
+            "name": "Cursos que comprei",
+            "slug": "cursos-que-comprei",
+            "description": ""
+        },
+        {
+            "name": "Desenvolvimento de Aplicações",
+            "slug": "desenvolvimento-aplicacoes",
+            "description": "Ferramentas para criar e gerir aplicações."
+        },
+        {
+            "name": "Design",
+            "slug": "design",
+            "description": "Recursos para criadores"
+        },
+        {
+            "name": "doação",
+            "slug": "doacao",
+            "description": ""
+        },
+        {
+            "name": "domínios",
+            "slug": "dominios",
+            "description": ""
+        },
+        {
+            "name": "downloads",
+            "slug": "downloads",
+            "description": ""
+        },
+        {
+            "name": "drives google",
+            "slug": "drives-google",
+            "description": ""
+        },
+        {
+            "name": "extensões google chrome",
+            "slug": "extensoes-google-chrome",
+            "description": ""
+        },
+        {
+            "name": "Ferramentas online",
+            "slug": "ferramentas-online",
+            "description": ""
+        },
+        {
+            "name": "google",
+            "slug": "google",
+            "description": ""
+        },
+        {
+            "name": "IA",
+            "slug": "ia",
+            "description": ""
+        },
+        {
+            "name": "Indicar",
+            "slug": "indicar",
+            "description": ""
+        },
+        {
+            "name": "Inteligência Artificial",
+            "slug": "inteligencia-artificial",
+            "description": "Recursos para aplicações com IA."
+        },
+        {
+            "name": "Investir",
+            "slug": "investir",
+            "description": ""
+        },
+        {
+            "name": "jogos",
+            "slug": "jogos",
+            "description": ""
+        },
+        {
+            "name": "LMS",
+            "slug": "lms",
+            "description": ""
+        },
+        {
+            "name": "mapas mentais",
+            "slug": "mapas-mentais",
+            "description": ""
+        },
+        {
+            "name": "Meus sites",
+            "slug": "meus-sites",
+            "description": ""
+        },
+        {
+            "name": "notícias",
+            "slug": "noticias",
+            "description": ""
+        },
+        {
+            "name": "para fazer",
+            "slug": "para-fazer",
+            "description": ""
+        },
+        {
+            "name": "porn",
+            "slug": "porn",
+            "description": ""
+        },
+        {
+            "name": "Produtividade",
+            "slug": "produtividade",
+            "description": "Ferramentas para aumentar eficiência"
+        },
+        {
+            "name": "segurança",
+            "slug": "seguranca",
+            "description": ""
+        },
+        {
+            "name": "servidor",
+            "slug": "servidor",
+            "description": ""
+        },
+        {
+            "name": "Sistemas AR",
+            "slug": "sistemas-ar",
+            "description": ""
+        },
+        {
+            "name": "suporte sistemas",
+            "slug": "suporte-sistemas",
+            "description": ""
+        },
+        {
+            "name": "Testados e reprovados",
+            "slug": "testados-e-reprovados",
+            "description": ""
+        },
+        {
+            "name": "tutoriais",
+            "slug": "tutoriais",
+            "description": ""
+        },
+        {
+            "name": "Uso sempre",
+            "slug": "uso-sempre",
+            "description": ""
+        },
+        {
+            "name": "Uso todo dia",
+            "slug": "uso-todo-dia",
+            "description": ""
+        },
+        {
+            "name": "ver depois",
+            "slug": "ver-depois",
+            "description": ""
+        },
+        {
+            "name": "vídeos online",
+            "slug": "videos-online",
+            "description": ""
+        },
+        {
+            "name": "wordpress",
+            "slug": "wordpress",
+            "description": ""
+        }
+    ],
+    "links": [
+        {
+            "name": "similarweb.com",
+            "url": "https:\/\/www.similarweb.com\/",
+            "description": "Analise sem esforço seu cenário competitivo",
+            "target": "",
+            "category_slugs": [
+                "ferramentas-online"
+            ]
+        },
+        {
+            "name": "support piksera",
+            "url": "https:\/\/support.piksera.com\/",
+            "description": "support piksera cursos.clica.site",
+            "target": "",
+            "category_slugs": [
+                "suporte-sistemas"
+            ]
+        },
+        {
+            "name": "teleprompter01",
+            "url": "https:\/\/arlinks.clica.site\/?acesso_seguro=1&#038;arquivo=teleprompter01.html",
+            "description": "teleprompter01",
+            "target": "",
+            "category_slugs": [
+                "sistemas-ar"
+            ]
+        },
+        {
+            "name": "tempwp",
+            "url": "https:\/\/tempwp.clica.site\/wp-admin\/",
+            "description": "temporário wp",
+            "target": "",
+            "category_slugs": [
+                "meus-sites"
+            ]
+        },
+        {
+            "name": "User Role Editor",
+            "url": "https:\/\/br.wordpress.org\/plugins\/user-role-editor\/",
+            "description": "usar junto com Restrict User Access",
+            "target": "",
+            "category_slugs": [
+                "wordpress"
+            ]
+        },
+        {
+            "name": "v0.dev",
+            "url": "https:\/\/v0.dev\/",
+            "description": "clonar sites",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "vidgenie.ai",
+            "url": "https:\/\/vidgenie.ai\/",
+            "description": "cria videos com IA",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "w3schools.com",
+            "url": "https:\/\/www.w3schools.com\/howto\/howto_js_curtain_menu.asp",
+            "description": "exemplos: HTML CSS JAVASCRIPT SQL PYTHON JAVA PHP",
+            "target": "",
+            "category_slugs": [
+                "tutoriais"
+            ]
+        },
+        {
+            "name": "wan.video",
+            "url": "https:\/\/wan.video\/",
+            "description": "cria vídeos",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "williandesigner.com\/tutoriais\/comfyui",
+            "url": "https:\/\/www.williandesigner.com\/tutoriais\/comfyui",
+            "description": "tutorial comfyui com williandesigner",
+            "target": "",
+            "category_slugs": [
+                "tutoriais"
+            ]
+        },
+        {
+            "name": "WP Cerber Security",
+            "url": "https:\/\/wpcerber.com\/limiting-concurrent-user-sessions-in-wordpress\/",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "wordpress"
+            ]
+        },
+        {
+            "name": "wp-members",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-members\/#description",
+            "description": "O plugin de associação original do WordPress com restrição de conteúdo, login de usuário, campos de registro personalizados, perfis de usuário e muito mais.",
+            "target": "",
+            "category_slugs": [
+                "wordpress"
+            ]
+        },
+        {
+            "name": "wp-phpmyadmin",
+            "url": "https:\/\/wordpress.org\/plugins\/wp-phpmyadmin-extension\/",
+            "description": "extensão para acessar phpmyadmin pelo wordpress",
+            "target": "",
+            "category_slugs": [
+                "wordpress"
+            ]
+        },
+        {
+            "name": "panorama bíblico",
+            "url": "https:\/\/casadosebooks.com.br\/panorama\/",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "comprar"
+            ]
+        },
+        {
+            "name": "PixelPages &#8211; Criador de sites de aplicativos SAAS para modelos HTML",
+            "url": "https:\/\/codecanyon.net\/item\/pixelpages-single-page-site-builder-for-html-templates\/49180559",
+            "description": "testei mas buga, muito limitado, ver comentários",
+            "target": "",
+            "category_slugs": [
+                "testados-e-reprovados"
+            ]
+        },
+        {
+            "name": "protected-content-manager.lovable.app",
+            "url": "https:\/\/protected-content-manager.lovable.app\/",
+            "description": "aplicativo que criei com IA para gerenciar páginas e links",
+            "target": "",
+            "category_slugs": [
+                "sistemas-ar"
+            ]
+        },
+        {
+            "name": "quick deals",
+            "url": "https:\/\/qd.clica.site\/admar024p9x8s3",
+            "description": "quick deals clica.site admin",
+            "target": "",
+            "category_slugs": [
+                "meus-sites"
+            ]
+        },
+        {
+            "name": "quizizz.com",
+            "url": "https:\/\/quizizz.com\/",
+            "description": "cria quiz",
+            "target": "",
+            "category_slugs": [
+                "criar-quiz"
+            ]
+        },
+        {
+            "name": "ratoflix",
+            "url": "https:\/\/vendasds.com\/ratoflix_\/",
+            "description": "Maior comunidade de Rateio &amp; Networking do Brasil",
+            "target": "",
+            "category_slugs": [
+                "comprar"
+            ]
+        },
+        {
+            "name": "Rede social clica.site",
+            "url": "https:\/\/rs.clica.site\/admin\/users\/login",
+            "description": "Rede social clica.site",
+            "target": "",
+            "category_slugs": [
+                "meus-sites"
+            ]
+        },
+        {
+            "name": "reflexao.com.br",
+            "url": "https:\/\/www.reflexao.com.br\/",
+            "description": "Mensagens de reflexão",
+            "target": "",
+            "category_slugs": [
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "Restrict User Access – Ultimate Membership &amp; Content Protection",
+            "url": "https:\/\/wordpress.org\/plugins\/restrict-user-access\/",
+            "description": "precisa do plugin que criei com deepseek Fix Restrict User Access Translations",
+            "target": "",
+            "category_slugs": [
+                "wordpress"
+            ]
+        },
+        {
+            "name": "riffusion.com",
+            "url": "https:\/\/www.riffusion.com\/",
+            "description": "cria música como o suno",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "sakai lms",
+            "url": "https:\/\/www.sakailms.org\/resources",
+            "description": "O Sakai fornece uma variedade de recursos, incluindo um wiki da comunidade e guias do usuário, bem como vídeos para ajudar você a criar os ambientes de aprendizado mais eficazes.",
+            "target": "",
+            "category_slugs": [
+                "lms"
+            ]
+        },
+        {
+            "name": "servidor contabo.com",
+            "url": "https:\/\/my.contabo.com\/abos#",
+            "description": "servidor dos meus sites",
+            "target": "",
+            "category_slugs": [
+                "servidor",
+                "suporte-sistemas"
+            ]
+        },
+        {
+            "name": "sessions",
+            "url": "https:\/\/wordpress.org\/plugins\/sessions\/",
+            "description": "Gerenciador de sessões poderoso para WordPress com limitador de sessões multicritério e relatórios analíticos completos.",
+            "target": "",
+            "category_slugs": [
+                "wordpress"
+            ]
+        },
+        {
+            "name": "shineads.in",
+            "url": "https:\/\/www.shineads.in\/",
+            "description": "site pirata de downloads",
+            "target": "",
+            "category_slugs": [
+                "downloads"
+            ]
+        },
+        {
+            "name": "simulador consórcio",
+            "url": "https:\/\/avel.me\/material-simulador-consorcio-videoaula\/",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "ver-depois"
+            ]
+        },
+        {
+            "name": "sistema de mapa mental AR",
+            "url": "https:\/\/arsistemaspv.clica.site\/arsystembr\/mind-map\/mind-map-system-v1\/#\/",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "mapas-mentais",
+                "meus-sites"
+            ]
+        },
+        {
+            "name": "smallseotools.com\/pt\/online-video-downloader",
+            "url": "https:\/\/smallseotools.com\/pt\/online-video-downloader\/",
+            "description": "ferramentas online, download de vídeos",
+            "target": "",
+            "category_slugs": [
+                "ferramentas-online",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "smodin.io",
+            "url": "https:\/\/smodin.io\/pt",
+            "description": "Assistente de escrita de IA Diga menos, escreva mais Acelere a pesquisa e deixe sua criatividade brilhar através da sua escrita com o AI Writer da Smodin.",
+            "target": "",
+            "category_slugs": [
+                "ia",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "squarespace.com\/domains",
+            "url": "https:\/\/account.squarespace.com\/domains",
+            "description": "meus domínios",
+            "target": "",
+            "category_slugs": [
+                "dominios"
+            ]
+        },
+        {
+            "name": "www.mercadorentavel.com",
+            "url": "https:\/\/www.mercadorentavel.com\/admar024p9x8s3mr",
+            "description": "admin mercadorentavel.com\/admar024p9x8s3mr",
+            "target": "",
+            "category_slugs": [
+                "meus-sites"
+            ]
+        },
+        {
+            "name": "myaccount.google.com\/apppasswords",
+            "url": "https:\/\/myaccount.google.com\/apppasswords",
+            "description": "gerador de senhas app google",
+            "target": "",
+            "category_slugs": [
+                "google",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "namecheap &#8211; pesquisa domínio",
+            "url": "https:\/\/www.namecheap.com\/domains\/registration\/results\/?domain=&#038;type=beast",
+            "description": "pesquisa domínio vemver",
+            "target": "",
+            "category_slugs": [
+                "comprar",
+                "ferramentas-online"
+            ]
+        },
+        {
+            "name": "nim.video",
+            "url": "https:\/\/nim.video\/",
+            "description": "cria videos com IA",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "notebooklm.google.com",
+            "url": "https:\/\/notebooklm.google.com\/",
+            "description": "Seu assistente IA pessoal para seus documentos. Resume, responde perguntas e gera ideias baseado apenas nas suas fontes fornecidas.",
+            "target": "",
+            "category_slugs": [
+                "ia",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "pareto.io",
+            "url": "https:\/\/pareto.io\/",
+            "description": "+ de 200 IA's com uma única assinatura",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "patreon",
+            "url": "https:\/\/wordpress.org\/plugins\/patreon-connect\/",
+            "description": "Escolha um dos seus níveis ou um valor mínimo de contribuição necessário para acessar uma publicação ou publicação personalizada Todos os patrocinadores com contribuição igual ou superior a esse nível mínimo poderão acessar sua postagem Alternativamente,",
+            "target": "",
+            "category_slugs": [
+                "wordpress"
+            ]
+        },
+        {
+            "name": "pensador.com",
+            "url": "https:\/\/www.pensador.com\/",
+            "description": "grandes ideias, poemas, inspiração para blog",
+            "target": "",
+            "category_slugs": [
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "pgvcristao.clica.site",
+            "url": "https:\/\/pgvcristao.clica.site\/",
+            "description": "páginas de vendas infoprodutos cristãos",
+            "target": "",
+            "category_slugs": [
+                "meus-sites"
+            ]
+        },
+        {
+            "name": "pipiads.com",
+            "url": "https:\/\/www.pipiads.com\/",
+            "description": "Descubra anúncios vencedores e os melhores produtos virais! A biblioteca de anúncios tudo-em-um mais poderosa, localizador de produtos de dropshipping e análise de concorrentes.",
+            "target": "",
+            "category_slugs": [
+                "ferramentas-online"
+            ]
+        },
+        {
+            "name": "PIX CONNECTION",
+            "url": "https:\/\/pixconnection.com.br\/dashboard#",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "indicar",
+                "investir"
+            ]
+        },
+        {
+            "name": "lovable.dev",
+            "url": "https:\/\/lovable.dev\/",
+            "description": "clonar sites",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "Notion",
+            "url": "https:\/\/notion.so",
+            "description": "Organize tarefas e projetos",
+            "target": "",
+            "category_slugs": [
+                "produtividade"
+            ]
+        },
+        {
+            "name": "nullforums.net",
+            "url": "https:\/\/nullforums.net\/",
+            "description": "compartilha códigos, plugins, sistemas",
+            "target": "",
+            "category_slugs": [
+                "cracked"
+            ]
+        },
+        {
+            "name": "octhub.com.br",
+            "url": "https:\/\/www.octhub.com.br\/",
+            "description": "Acesse 135 Plataformas de IA! O universo das melhores IAs em um só lugar",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "odysee.com",
+            "url": "https:\/\/odysee.com\/@SOUVENIRSDEBOITES80:d\/milli-vanilli-girl-i&#039;m-gonna-miss-you:7",
+            "description": "parecido com youtube",
+            "target": "",
+            "category_slugs": [
+                "videos-online"
+            ]
+        },
+        {
+            "name": "olx",
+            "url": "https:\/\/conta.olx.com.br\/chats",
+            "description": "olx",
+            "target": "",
+            "category_slugs": [
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "openrouter.ai Quasar Alpha",
+            "url": "https:\/\/openrouter.ai\/chat?room=orc-1744226949-9DFvk5jZgxBFLqvl8un9",
+            "description": "openrouter.ai Quasar Alpha",
+            "target": "",
+            "category_slugs": [
+                "ia",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "ouvirmusica.com.br",
+            "url": "https:\/\/www.ouvirmusica.com.br\/playlists\/311107\/",
+            "description": "site para escutar musica online sem pub",
+            "target": "",
+            "category_slugs": [
+                "uso-sempre",
+                "uso-todo-dia"
+            ]
+        },
+        {
+            "name": "pagespeed",
+            "url": "https:\/\/pagespeed.web.dev\/",
+            "description": "verifica velocidade do site",
+            "target": "",
+            "category_slugs": [
+                "ferramentas-online",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "paid memberships pro",
+            "url": "https:\/\/www.paidmembershipspro.com\/",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "wordpress"
+            ]
+        },
+        {
+            "name": "excalidraw.com",
+            "url": "https:\/\/excalidraw.com\/",
+            "description": "cria diagramas online, mapas mentais",
+            "target": "",
+            "category_slugs": [
+                "mapas-mentais"
+            ]
+        },
+        {
+            "name": "gemini.google.com",
+            "url": "https:\/\/gemini.google.com\/app?hl=pt-BR",
+            "description": "gemini chat",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "Gerador de Estilos para plugin Link manager Pro",
+            "url": "https:\/\/arlinks.clica.site\/arquivo-seguro\/_paginas-customizadas\/css-gerador-v5-2\/index.html\/",
+            "description": "sistema Gerador de Estilos para plugin Link manager Pro",
+            "target": "",
+            "category_slugs": [
+                "sistemas-ar"
+            ]
+        },
+        {
+            "name": "Gerador de links personalizados",
+            "url": "https:\/\/arlinks.clica.site\/arquivo-seguro\/_paginas-customizadas\/gerador_links.html\/",
+            "description": "gera automaticamente links personalizados",
+            "target": "",
+            "category_slugs": [
+                "sistemas-ar",
+                "uso-todo-dia"
+            ]
+        },
+        {
+            "name": "ggmax.com.br",
+            "url": "https:\/\/ggmax.com.br\/",
+            "description": "ggmax.com.br – contas prime, hbomax, paramount etc",
+            "target": "",
+            "category_slugs": [
+                "contas-digitais",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "global gpt.com",
+            "url": "https:\/\/glbgpt.com\/",
+            "description": "Pague uma vez e acesse todos os principais modelos e agentes de IA.",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "go2.designrr.io",
+            "url": "https:\/\/go2.designrr.io\/",
+            "description": "comprar. cria ebooks",
+            "target": "",
+            "category_slugs": [
+                "comprar"
+            ]
+        },
+        {
+            "name": "google recapcha",
+            "url": "https:\/\/www.google.com\/recaptcha\/admin\/create",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "google"
+            ]
+        },
+        {
+            "name": "happymod.com",
+            "url": "https:\/\/baixar.happymod.com\/",
+            "description": "android &gt;&gt; Adicionada ferramenta de gestão de xapk\/apk: instalar e eliminar xapk\/back com um clique; Melhoria da interface; Corrigidos outros bugs.",
+            "target": "",
+            "category_slugs": [
+                "android"
+            ]
+        },
+        {
+            "name": "itch.io",
+            "url": "https:\/\/itch.io\/search?q=ludo",
+            "description": "jogos online",
+            "target": "",
+            "category_slugs": [
+                "jogos"
+            ]
+        },
+        {
+            "name": "lifterlms",
+            "url": "https:\/\/wordpress.org\/support\/plugin\/lifterlms\/reviews\/?filter=5",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "lms"
+            ]
+        },
+        {
+            "name": "link privado md.clica.site (fase teste)",
+            "url": "https:\/\/md.clica.site\/?woo-share=OJxJiM7DaeT1FckTYn36k3Pv2gWg4p6W",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "sistemas-ar"
+            ]
+        },
+        {
+            "name": "liveweave.com",
+            "url": "https:\/\/liveweave.com\/",
+            "description": "emulador HTML, CSS and JavaScript demo",
+            "target": "",
+            "category_slugs": [
+                "ferramentas-online",
+                "uso-sempre",
+                "uso-todo-dia"
+            ]
+        },
+        {
+            "name": "loja lj.clica.site\/admar024p9x8s3\/login",
+            "url": "https:\/\/www.lj.clica.site\/admar024p9x8s3\/login",
+            "description": "loja clica.site lj.clica.site\/admar024p9x8s3\/login",
+            "target": "",
+            "category_slugs": [
+                "meus-sites"
+            ]
+        },
+        {
+            "name": "mapa mental app",
+            "url": "https:\/\/www.mapamental.app\/?src=blog-artigo",
+            "description": "A 1ª ferramenta de mapas mentais 100% brasileira, que utiliza inteligência artificial para aumentar a produtividade na criação dos seus mapas mentais",
+            "target": "",
+            "category_slugs": [
+                "comprar"
+            ]
+        },
+        {
+            "name": "Mercado Digital clica.site",
+            "url": "https:\/\/md.clica.site\/",
+            "description": "Mercado Digital clica.site",
+            "target": "",
+            "category_slugs": [
+                "meus-sites"
+            ]
+        },
+        {
+            "name": "Mercado Digital vemver.net",
+            "url": "https:\/\/md.vemver.net\/",
+            "description": "Mercado Digital vemver.net",
+            "target": "",
+            "category_slugs": [
+                "meus-sites"
+            ]
+        },
+        {
+            "name": "Método 4 s wordpress",
+            "url": "https:\/\/sso.hotmart.com\/login?service=https%3A%2F%2Fsso.hotmart.com%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Db432cdd3-eb60-46bd-892b-5b450a65153e%26redirect_uri%3Dhttps%253A%252F%252Fhotmart.com%252Fen%252Fclub%252Fmetodo4swordpress%252Fauth%252Flogin",
+            "description": "Criação de EBOOKS com INTELIGÊNCIA ARTIFICIAL",
+            "target": "",
+            "category_slugs": [
+                "cursos-que-comprei"
+            ]
+        },
+        {
+            "name": "Mind Luster",
+            "url": "https:\/\/www.mindluster.com\/",
+            "description": "Mind Luster - 300.000 cursos online e MOOCs com certificados gratuitos em um só lugar",
+            "target": "",
+            "category_slugs": [
+                "cursos"
+            ]
+        },
+        {
+            "name": "multifução clica.site",
+            "url": "https:\/\/mf.clica.site\/",
+            "description": "multifução clica.site bio66",
+            "target": "",
+            "category_slugs": [
+                "meus-sites",
+                "sistemas-ar"
+            ]
+        },
+        {
+            "name": "cohesive.so",
+            "url": "https:\/\/cohesive.so\/",
+            "description": "aumento de produtividade com o Cohesive, onde a criatividade humana encontra o brilhantismo da IA. Crie, refine, edite e publique seu trabalho com facilidade.",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "cursosonlines.org\/rec\/aprenda-mais-mec-cursos-gratuitos",
+            "url": "https:\/\/cursosonlines.org\/rec\/aprenda-mais-mec-cursos-gratuitos\/",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "cursos"
+            ]
+        },
+        {
+            "name": "cursou.com.br",
+            "url": "https:\/\/www.cursou.com.br\/",
+            "description": "Acesse os melhores cursos online grátis através do Cursou. São diversas categorias de cursos disponíveis online gratuitamente.",
+            "target": "",
+            "category_slugs": [
+                "cursos"
+            ]
+        },
+        {
+            "name": "deepseek.com",
+            "url": "https:\/\/chat.deepseek.com\/",
+            "description": "chat IA",
+            "target": "",
+            "category_slugs": [
+                "uso-sempre",
+                "uso-todo-dia"
+            ]
+        },
+        {
+            "name": "descript.com",
+            "url": "https:\/\/www.descript.com\/",
+            "description": "Deixe o vídeo mais rápido. Faça mais disso. E faça-o bem. Seu público quer vídeo. Sua empresa precisa de vídeo. Os algoritmos exigem cada vez mais vídeo. Livre-se deles com o Descript — a ferramenta de vídeo completa que você já sabe usar.",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "design.com\/maker",
+            "url": "https:\/\/www.design.com\/maker",
+            "description": "cria logos online... dá ideia rápida. peguei a ideia da logo do gobr.club",
+            "target": "",
+            "category_slugs": [
+                "ferramentas-online"
+            ]
+        },
+        {
+            "name": "diagrams.net",
+            "url": "https:\/\/app.diagrams.net\/",
+            "description": "cria diagramas online",
+            "target": "",
+            "category_slugs": [
+                "ferramentas-online"
+            ]
+        },
+        {
+            "name": "digitaltitansferramentas.shop",
+            "url": "https:\/\/digitaltitansferramentas.shop\/",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "comprar"
+            ]
+        },
+        {
+            "name": "dillinger.io",
+            "url": "https:\/\/dillinger.io\/",
+            "description": "Dillinger é um editor HTML5 Markdown habilitado para nuvem, pronto para dispositivos móveis, compatível com armazenamento offline e com AngularJS.",
+            "target": "",
+            "category_slugs": [
+                "ferramentas-online",
+                "uso-todo-dia"
+            ]
+        },
+        {
+            "name": "dora.run",
+            "url": "https:\/\/www.dora.run\/ai",
+            "description": "cria landpages",
+            "target": "",
+            "category_slugs": [
+                "ia",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "dynadot.com",
+            "url": "https:\/\/www.dynadot.com\/pt\/",
+            "description": "gerencia domínio mercadorentavel.com",
+            "target": "",
+            "category_slugs": [
+                "meus-sites",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "Editor \/ gerador animado de publicidade para meu blogger",
+            "url": "https:\/\/arlinks.clica.site\/arquivo-seguro\/_paginas-customizadas\/editoranimacoesbyar.php\/",
+            "description": "Editor \/ gerador animações by AR",
+            "target": "",
+            "category_slugs": [
+                "sistemas-ar",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "elevenlabs.io\/conversational-ai",
+            "url": "https:\/\/elevenlabs.io\/conversational-ai",
+            "description": "agente ia",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "famosas-sem-maquiagem",
+            "url": "https:\/\/33bridges.com\/trending\/famosas-sem-maquiagem-que-amamos-que-nos-inspiram-e-nos-empoderam-mix-rana\/14",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "ver-depois"
+            ]
+        },
+        {
+            "name": "faq inw24.com",
+            "url": "https:\/\/www.inw24.com\/user_manual\/mcpro\/index.html",
+            "description": "faq Multi Content Pro (Application and Website)",
+            "target": "",
+            "category_slugs": [
+                "tutoriais"
+            ]
+        },
+        {
+            "name": "Figma",
+            "url": "https:\/\/figma.com",
+            "description": "Design colaborativo",
+            "target": "",
+            "category_slugs": [
+                "design",
+                "produtividade"
+            ]
+        },
+        {
+            "name": "Firebase Studio",
+            "url": "https:\/\/studio.firebase.google.com\/studio",
+            "description": "Ferramenta do Google para criar aplicações web com IA, simplificando o desenvolvimento e publicação.",
+            "target": "",
+            "category_slugs": [
+                "desenvolvimento-aplicacoes",
+                "inteligencia-artificial"
+            ]
+        },
+        {
+            "name": "flixareademembros.com",
+            "url": "https:\/\/flixareademembros.com\/",
+            "description": "curso que ensina a criar plataforma de cursos",
+            "target": "",
+            "category_slugs": [
+                "cursos-que-comprei"
+            ]
+        },
+        {
+            "name": "forums.envato.com",
+            "url": "https:\/\/forums.envato.com\/top?period=monthly",
+            "description": "tira dúvidas envato codecanyon",
+            "target": "",
+            "category_slugs": [
+                "suporte-sistemas"
+            ]
+        },
+        {
+            "name": "fox-lms",
+            "url": "https:\/\/wordpress.org\/plugins\/fox-lms\/",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "lms"
+            ]
+        },
+        {
+            "name": "ativar modo desenvolvedor extensão google chrome",
+            "url": "https:\/\/chrome.google.com\/webstore\/devconsole\/register",
+            "description": "tem que pagar 5 dólares!",
+            "target": "",
+            "category_slugs": [
+                "comprar"
+            ]
+        },
+        {
+            "name": "boolv.video",
+            "url": "https:\/\/boolv.video\/",
+            "description": "boolv.video  cria video fácil, até por textos",
+            "target": "",
+            "category_slugs": [
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "brlinks.club",
+            "url": "https:\/\/brlinks.club\/dashboard",
+            "description": "meu site multifunção original",
+            "target": "",
+            "category_slugs": [
+                "meus-sites",
+                "sistemas-ar",
+                "uso-todo-dia"
+            ]
+        },
+        {
+            "name": "buildnatively",
+            "url": "https:\/\/www.buildnatively.com\/",
+            "description": "Converta seu site em um aplicativo móvel! Insira a URL do seu site para começar a criar aplicativos móveis nativos para iOS e Android. Comece gratuitamente.",
+            "target": "",
+            "category_slugs": [
+                "comprar",
+                "cria-app"
+            ]
+        },
+        {
+            "name": "cbsnews.com",
+            "url": "https:\/\/www.cbsnews.com\/",
+            "description": "notícias",
+            "target": "",
+            "category_slugs": [
+                "noticias"
+            ]
+        },
+        {
+            "name": "chat.minimax.io",
+            "url": "https:\/\/chat.minimax.io\/",
+            "description": "chat IA",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "clica.site\/admar024p9x8s3",
+            "url": "https:\/\/clica.site\/admar024p9x8s3",
+            "description": "admin clica.site\/admar024p9x8s3",
+            "target": "",
+            "category_slugs": [
+                "meus-sites"
+            ]
+        },
+        {
+            "name": "Cloudflare Domínios de transferência",
+            "url": "https:\/\/dash.cloudflare.com\/e431e565e3030656d2cb6c6f53f83961\/registrar\/transfer",
+            "description": "Transfira seu registro de domínio para o Registrar da Cloudflare.",
+            "target": "",
+            "category_slugs": [
+                "dominios"
+            ]
+        },
+        {
+            "name": "cloudflare.com\/registrar\/transfer",
+            "url": "https:\/\/dash.cloudflare.com\/e431e565e3030656d2cb6c6f53f83961\/registrar\/transfer",
+            "description": "transferir domínio",
+            "target": "",
+            "category_slugs": [
+                "dominios"
+            ]
+        },
+        {
+            "name": "club virtual clica.site",
+            "url": "https:\/\/cv.clica.site\/",
+            "description": "club virtual vemver.net -- oferecer em clica.site",
+            "target": "",
+            "category_slugs": [
+                "meus-sites"
+            ]
+        },
+        {
+            "name": "club virtual vemver.net",
+            "url": "https:\/\/cv.vemver.net\/",
+            "description": "club virtual vemver.net -- oferecer em merccadorentavel.com",
+            "target": "",
+            "category_slugs": [
+                "meus-sites"
+            ]
+        },
+        {
+            "name": "CMS Piksera",
+            "url": "https:\/\/piksera.com\/marketplace\/piksera-cms-website-builder\/9",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "comprei-ganhei"
+            ]
+        },
+        {
+            "name": "cobalt.tools",
+            "url": "https:\/\/cobalt.tools\/",
+            "description": "faz download de tudo quanto é tipo de video e música",
+            "target": "",
+            "category_slugs": [
+                "downloads",
+                "ferramentas-online",
+                "uso-todo-dia",
+                "videos-online"
+            ]
+        },
+        {
+            "name": "COMBO HBO MAX, DISNEY PLUS , CRUNCHYROLL, PRIME VIDEO, PARAMOUNT, PLAYPLUS",
+            "url": "https:\/\/ggmax.com.br\/anuncio\/combo-hbo-max-disney-plus-crunchyroll-prime-video-paramount-playplus",
+            "description": "comprar",
+            "target": "",
+            "category_slugs": [
+                "comprar"
+            ]
+        },
+        {
+            "name": "contato@mercadorentavel.com",
+            "url": "https:\/\/webmail.dynadot.com\/mailbox\/folder.html?to-list=1",
+            "description": "webmail de contato@mercadorentavel.com",
+            "target": "",
+            "category_slugs": [
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "Coolors",
+            "url": "https:\/\/coolors.co",
+            "description": "Gerador de paletas de cores",
+            "target": "",
+            "category_slugs": [
+                "design"
+            ]
+        },
+        {
+            "name": "crio páginas de vendas estrategicamente otimizadas para conversão",
+            "url": "https:\/\/chatgpt.com\/g\/g-682dcbaad36c8191aff9ed75b1f31960-kazin",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "cursor.com",
+            "url": "https:\/\/www.cursor.com\/",
+            "description": "cria sites e aplicativos online",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "cursos hotmart",
+            "url": "https:\/\/consumer.hotmart.com\/main",
+            "description": "todos os cursos que comprei na hotmart",
+            "target": "",
+            "category_slugs": [
+                "cursos-que-comprei"
+            ]
+        },
+        {
+            "name": "cursos Monetizze",
+            "url": "https:\/\/minhascompras.monetizze.com.br\/minhas-compras",
+            "description": "Meus cursos Monetizze",
+            "target": "",
+            "category_slugs": [
+                "cursos-que-comprei"
+            ]
+        },
+        {
+            "name": "5 mil cursos grátis",
+            "url": "https:\/\/alison.com\/lms\/lms-course-library",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "cursos"
+            ]
+        },
+        {
+            "name": "a",
+            "url": "https:\/\/wordpress.org\/plugins\/sessions\/",
+            "description": "",
+            "target": "",
+            "category_slugs": []
+        },
+        {
+            "name": "AApanel 109",
+            "url": "https:\/\/aapanelserver109.clica.site:41617\/a0e02967armv",
+            "description": "AApanel 109",
+            "target": "",
+            "category_slugs": [
+                "meus-sites",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "AApanel 154",
+            "url": "https:\/\/aapanelserver154.clica.site:15105\/bb4365b0",
+            "description": "AApanel 154",
+            "target": "",
+            "category_slugs": [
+                "meus-sites",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "affiliatepro.org",
+            "url": "https:\/\/affiliatepro.org\/kb-article\/moving-your-site-to-a-new-domain-a-quick-guide\/",
+            "description": "guia online affiliatepro.org",
+            "target": "",
+            "category_slugs": [
+                "suporte-sistemas",
+                "tutoriais"
+            ]
+        },
+        {
+            "name": "agilizachat.com.br",
+            "url": "https:\/\/agilizachat.com.br\/",
+            "description": "pack canva - Bio lucrativa",
+            "target": "",
+            "category_slugs": [
+                "comprar"
+            ]
+        },
+        {
+            "name": "ai.invideo.io",
+            "url": "https:\/\/ai.invideo.io\/onboard",
+            "description": "cria videos com IA",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "aiprm-for-chatgpt",
+            "url": "https:\/\/chromewebstore.google.com\/detail\/aiprm-for-chatgpt\/ojnbohmppadfgpejeebfnmnknjdlckgj",
+            "description": "3500 prompt for chat gpt",
+            "target": "",
+            "category_slugs": [
+                "extensoes-google-chrome"
+            ]
+        },
+        {
+            "name": "apoia.se",
+            "url": "https:\/\/apoia.se\/",
+            "description": "Somos uma plataforma que viabiliza a sustentabilidade financeira de fazeres criativos e causas através do Financiamento Coletivo.",
+            "target": "",
+            "category_slugs": [
+                "doacao"
+            ]
+        },
+        {
+            "name": "aprendamais.mec.gov.br",
+            "url": "https:\/\/aprendamais.mec.gov.br\/",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "cursos"
+            ]
+        },
+        {
+            "name": "Ar sistemas PV",
+            "url": "https:\/\/arsistemaspv.clica.site\/arsystembr\/admin.php",
+            "description": "Ar sistemas PV",
+            "target": "",
+            "category_slugs": [
+                "meus-sites"
+            ]
+        },
+        {
+            "name": "archive.org",
+            "url": "https:\/\/archive.org\/",
+            "description": "O Internet Archive é uma biblioteca sem fins lucrativos com milhões de textos, filmes, softwares, músicas, sites e muito mais, todos gratuitos.",
+            "target": "",
+            "category_slugs": [
+                "downloads",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "arquiz.html",
+            "url": "https:\/\/arlinks.clica.site\/?acesso_seguro=1&#038;arquivo=arquiz.html",
+            "description": "arquiz.html",
+            "target": "",
+            "category_slugs": [
+                "criar-quiz"
+            ]
+        },
+        {
+            "name": "aumentar nível bronze mamae INSS",
+            "url": "https:\/\/confiabilidades.acesso.gov.br\/?client_id=consumidor.gov.br&#038;niveis=2",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "para-fazer"
+            ]
+        },
+        {
+            "name": "autenticar provedores para projeto",
+            "url": "https:\/\/supabase.com\/dashboard\/project\/vhubqhstkuptcwxxxrel\/auth\/providers",
+            "description": "autentica com google, facebook etc",
+            "target": "",
+            "category_slugs": [
+                "para-fazer"
+            ]
+        },
+        {
+            "name": "Baixe o vídeo de ‍MSN Serviço‍",
+            "url": "https:\/\/fetchfile.me\/pt\/baixar-msn\/",
+            "description": "MSN Serviço Downloader de vídeo Online",
+            "target": "",
+            "category_slugs": [
+                "ferramentas-online",
+                "uso-todo-dia",
+                "videos-online"
+            ]
+        },
+        {
+            "name": "Bible tube",
+            "url": "https:\/\/casadosebooks.com.br\/biblia-tube\/",
+            "description": "comprar",
+            "target": "",
+            "category_slugs": [
+                "comprar"
+            ]
+        },
+        {
+            "name": "biblia-tube",
+            "url": "https:\/\/casadosebooks.com.br\/biblia-tube\/",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "comprar"
+            ]
+        },
+        {
+            "name": "blitergpl.com.br",
+            "url": "https:\/\/blitergpl.com.br\/",
+            "description": "venda de sistemas",
+            "target": "",
+            "category_slugs": [
+                "crack"
+            ]
+        },
+        {
+            "name": "bolt.new",
+            "url": "https:\/\/bolt.new\/",
+            "description": "cria sites e aplicativos, plugin wordpress online",
+            "target": "",
+            "category_slugs": [
+                "ia",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "heygen.com",
+            "url": "https:\/\/www.heygen.com\/",
+            "description": "Gerador de vídeo de IA.  Vídeos de IA ilimitados.  Vibe Video. Não precisa de câmera.  A HeyGen AI transforma texto em vídeo em apenas alguns minutos. É fácil e é o futuro. Em vez de ficar obcecado com linhas do tempo, câmeras e cortes, você controla a  v",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "hidemywpghost.com security_check",
+            "url": "https:\/\/hidemywpghost.com\/#security_check",
+            "description": "verifica segurança do site",
+            "target": "",
+            "category_slugs": [
+                "seguranca"
+            ]
+        },
+        {
+            "name": "horizons.hostinger.com",
+            "url": "https:\/\/horizons.hostinger.com\/",
+            "description": "IA horizons.hostinger.com",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "hq&#039;s, dc comic, filmes marvel etc",
+            "url": "https:\/\/drive.google.com\/drive\/folders\/1GlwuxUqihaU1q5ol7vVjhK2TxrHkHVp6",
+            "description": "hq's, dc comic, filmes marvel etc",
+            "target": "",
+            "category_slugs": [
+                "drives-google"
+            ]
+        },
+        {
+            "name": "html-online.com",
+            "url": "https:\/\/html-online.com\/",
+            "description": "editor html online",
+            "target": "",
+            "category_slugs": [
+                "ferramentas-online"
+            ]
+        },
+        {
+            "name": "huggingface.co\/spaces\/enzostvs\/deepsite",
+            "url": "https:\/\/huggingface.co\/spaces\/enzostvs\/deepsite",
+            "description": "cria sites e aplicativos online",
+            "target": "",
+            "category_slugs": [
+                "ia",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "huggingface.co\/spaces\/victor\/deepsite-gallery",
+            "url": "https:\/\/huggingface.co\/spaces\/victor\/deepsite-gallery",
+            "description": "deepsite-gallery",
+            "target": "",
+            "category_slugs": [
+                "ia"
+            ]
+        },
+        {
+            "name": "iacademy.astronmembers.com",
+            "url": "https:\/\/iacademy.astronmembers.com\/dashboard",
+            "description": "curso para criar ebooks e videos com IA",
+            "target": "",
+            "category_slugs": [
+                "cursos"
+            ]
+        },
+        {
+            "name": "iatoolsplataforma.com.br\/ferramentas-pro-v2",
+            "url": "https:\/\/iatoolsplataforma.com.br\/ferramentas-pro-v2\/",
+            "description": "35",
+            "target": "",
+            "category_slugs": [
+                "comprar"
+            ]
+        },
+        {
+            "name": "importar links",
+            "url": "https:\/\/arlinks.clica.site\/wp-admin\/options-general.php?page=lcw-settings#import-export",
+            "description": "meu sistema de importação de links",
+            "target": "",
+            "category_slugs": [
+                "uso-sempre",
+                "uso-todo-dia"
+            ]
+        },
+        {
+            "name": "incrivel_sexo_anal_linda_garota_adora_sexo_anal",
+            "url": "https:\/\/www.xvideos.com\/video.ohmuauf9223\/incrivel_sexo_anal_linda_garota_adora_sexo_anal",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "porn"
+            ]
+        },
+        {
+            "name": "instalar com a ajuda de um especialista",
+            "url": "https:\/\/github.com\/aotakeda\/learn-thing",
+            "description": "",
+            "target": "",
+            "category_slugs": [
+                "para-fazer"
+            ]
+        },
+        {
+            "name": "jarvis.cx",
+            "url": "https:\/\/jarvis.cx\/pricing",
+            "description": "Jarvis - Uma assinatura, acesso ilimitado Uma conta, todos os dispositivos, todos os modelos de IA",
+            "target": "",
+            "category_slugs": [
+                "comprar",
+                "ia"
+            ]
+        },
+        {
+            "name": "jigsawplanet",
+            "url": "https:\/\/www.jigsawplanet.com\/",
+            "description": "jogo de quebra cabeças online grátis",
+            "target": "",
+            "category_slugs": [
+                "jogos"
+            ]
+        },
+        {
+            "name": "jotform.com",
+            "url": "https:\/\/www.jotform.com\/app-templates\/category\/sign-in-app-templates",
+            "description": "crie aplicativos, Acreditamos que o formulário certo faz toda a diferença. Transforme tarefas repetitivas em menos trabalho com formulários poderosos que usam lógica condicional, aceitam pagamentos, geram relatórios e automatizam fluxos de trabalho.",
+            "target": "",
+            "category_slugs": [
+                "cria-app",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "krea.ai",
+            "url": "https:\/\/www.krea.ai\/",
+            "description": "criador de tudo",
+            "target": "",
+            "category_slugs": [
+                "ia",
+                "uso-sempre"
+            ]
+        },
+        {
+            "name": "lanceseucursocomia.com\/cursos-e-ebooks",
+            "url": "https:\/\/lanceseucursocomia.com\/cursos-e-ebooks\/",
+            "description": "10+23+12",
+            "target": "",
+            "category_slugs": [
+                "comprar"
+            ]
+        },
+        {
+            "name": "Leitor de Texto AR",
+            "url": "https:\/\/arlinks.clica.site\/?acesso_seguro=1&#038;arquivo=lertexto.html",
+            "description": "Leitor de Texto AR",
+            "target": "",
+            "category_slugs": [
+                "sistemas-ar"
+            ]
+        },
+        {
+            "name": "leituradinamicabyarfinal",
+            "url": "https:\/\/arlinks.clica.site\/?acesso_seguro=1&#038;arquivo=leituradinamicabyarfinal.php",
+            "description": "leituradinamicabyarfinal",
+            "target": "",
+            "category_slugs": [
+                "sistemas-ar"
+            ]
+        },
+        {
+            "name": "xmind.ai",
+            "url": "https:\/\/xmind.ai\/qZFso1W9",
+            "description": "cria diagramas online, mapas mentais",
+            "target": "",
+            "category_slugs": [
+                "mapas-mentais"
+            ]
+        }
+    ]
+}
